@@ -1,4 +1,4 @@
-Classification of Fire Types in India Using MODIS Satellite Data
+Classification of Fire Types in India Using MODIS Satellite Data :-
 This repository contains a data science project that classifies fire types across India using satellite imagery data obtained from the MODIS (Moderate Resolution Imaging Spectroradiometer) sensor. The project leverages machine learning techniques to identify and classify different types of fires such as forest fires, agricultural fires, and others based on features derived from the MODIS dataset.
 
 📌 Project Objectives
