@@ -71,7 +71,7 @@ Successfully identified fire-prone zones and types using satellite-derived metri
 
 🚀 How to Run
 Clone the repository
-git clone https://github.com/Esha222518/fire-classification-india.git
+git clone
 cd fire-classification-india
 Install required packages:
 pip install -r requirements.txt
